@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Charlotte-Childers-CPT-188-Test-3</string>
+    <string name="loan_amount">Enter Loan</string>
+    <string name="calculate">Calculate</string>
+    <string name="monthly_payment">Monthly Payment: $0.00</string>
+    <string name="clickForRates">😎 Click for any rates, any years, any amount 😎</string>
+</resources>
